@@ -1,2 +1,8 @@
-# hello-world
-My first website from scratch for Code Fellows
+# My first website
+
+## "Where we are at" List
+
+*Making changes, starting ACP: add, commit, post
+
+*Demonstrating save
+
